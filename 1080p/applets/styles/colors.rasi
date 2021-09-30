@@ -19,4 +19,4 @@
  *
  */
 
-@import "dark.rasi"
+@import "material-dark/amber.rasi"
