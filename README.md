@@ -1,3 +1,9 @@
+## About this fork
+
+I forked this repository only to include customizations for my personal setup. As I no longer use rofi, this repo will not get any more updates.
+
+# Rofi Presets
+
 <!-- Rofi Themes-->
 
 <p align="center">
